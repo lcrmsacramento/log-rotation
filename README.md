@@ -5,3 +5,4 @@ Assumes that log files have the following naming:
 '''
 logger.log.yyyymmdd
 '''
+# log-rotation
